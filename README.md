@@ -49,7 +49,7 @@ Hands-on experience in DevOps, including creating VMs, writing pipelines for aut
 
 ## Professional Experience
 
-### **Codgo.X** - Technical Lead  
+### **Codgo.X** - Tech Lead  
 *April 2024 - Present (5 months)*  
 Barueri, São Paulo, Brazil
 
